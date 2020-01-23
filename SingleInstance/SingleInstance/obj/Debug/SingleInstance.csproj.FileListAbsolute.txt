@@ -1,0 +1,6 @@
+D:\Codecool\Advanced\SI-3\Threading\SingleInstance\SingleInstance\SingleInstance\bin\Debug\SingleInstance.exe.config
+D:\Codecool\Advanced\SI-3\Threading\SingleInstance\SingleInstance\SingleInstance\bin\Debug\SingleInstance.exe
+D:\Codecool\Advanced\SI-3\Threading\SingleInstance\SingleInstance\SingleInstance\bin\Debug\SingleInstance.pdb
+D:\Codecool\Advanced\SI-3\Threading\SingleInstance\SingleInstance\SingleInstance\obj\Debug\SingleInstance.csprojAssemblyReference.cache
+D:\Codecool\Advanced\SI-3\Threading\SingleInstance\SingleInstance\SingleInstance\obj\Debug\SingleInstance.exe
+D:\Codecool\Advanced\SI-3\Threading\SingleInstance\SingleInstance\SingleInstance\obj\Debug\SingleInstance.pdb
